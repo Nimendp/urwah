@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/urwah/static/css/main.b9f68170.chunk.css",
+    "main.js": "/urwah/static/js/main.d6faeba9.chunk.js",
+    "main.js.map": "/urwah/static/js/main.d6faeba9.chunk.js.map",
+    "runtime-main.js": "/urwah/static/js/runtime-main.4a39bc66.js",
+    "runtime-main.js.map": "/urwah/static/js/runtime-main.4a39bc66.js.map",
+    "static/js/2.b556ecb6.chunk.js": "/urwah/static/js/2.b556ecb6.chunk.js",
+    "static/js/2.b556ecb6.chunk.js.map": "/urwah/static/js/2.b556ecb6.chunk.js.map",
+    "static/js/3.3bc29157.chunk.js": "/urwah/static/js/3.3bc29157.chunk.js",
+    "static/js/3.3bc29157.chunk.js.map": "/urwah/static/js/3.3bc29157.chunk.js.map",
+    "index.html": "/urwah/index.html",
+    "precache-manifest.c31e3fffb568fa7e1f0ff9b4c2c76ee8.js": "/urwah/precache-manifest.c31e3fffb568fa7e1f0ff9b4c2c76ee8.js",
+    "service-worker.js": "/urwah/service-worker.js",
+    "static/css/main.b9f68170.chunk.css.map": "/urwah/static/css/main.b9f68170.chunk.css.map",
+    "static/js/2.b556ecb6.chunk.js.LICENSE.txt": "/urwah/static/js/2.b556ecb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a39bc66.js",
+    "static/js/2.b556ecb6.chunk.js",
+    "static/css/main.b9f68170.chunk.css",
+    "static/js/main.d6faeba9.chunk.js"
+  ]
+}
